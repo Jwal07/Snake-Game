@@ -3,7 +3,7 @@
  *
  * Author: Yash Gandhi, Jwal Patel and Claricel Ramos
  * Date: March 6, 2024
- * GitHub Repository link:- https://github.com/Rio-The-Yash/Snake-game/tree/proj_II_w_6
+ 
  */
 
 /*
