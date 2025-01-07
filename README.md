@@ -20,7 +20,7 @@ C Compiler: You need a C compiler (such as MinGW) installed on your system to co
 How to Play
 Clone the Repository: Clone the repository to your local machine:
 
-git clone https://github.com/Rio-The-Yash/Snake-game/tree/proj_II_w_6
+
 Compile the Code: Navigate to the project directory and compile the code using a C compiler:
 
 gcc Snake_Game.c -o Snake_Game
